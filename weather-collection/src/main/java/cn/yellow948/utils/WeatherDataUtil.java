@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class WeatherDataUtil {
 
-    private static final String WEATHER_URI = "https://www.tianqiapi.com/api?appid=34634593&appsecret=uPj1Ze8I&version=v61&";
+    private static final String WEATHER_URI = "https://www.tianqiapi.com/api?appid=appid&appsecret=appsecret&version=v61&";
 
     // 不生效
 //    @Autowired
