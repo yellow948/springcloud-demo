@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="springcloud-demo_main" target="1.8" />
+      <module name="springcloud-demo_test" target="1.8" />
+      <module name="weather-collection-config-client_main" target="1.8" />
+      <module name="weather-collection-config-client_test" target="1.8" />
+      <module name="weather-collection-config-server_main" target="1.8" />
+      <module name="weather-collection-config-server_test" target="1.8" />
+      <module name="weather-collection-eureka-client_main" target="1.8" />
+      <module name="weather-collection-eureka-client_test" target="1.8" />
+      <module name="weather-collection-eureka-server_main" target="1.8" />
+      <module name="weather-collection-eureka-server_test" target="1.8" />
+      <module name="weather-collection-eureka_main" target="1.8" />
+      <module name="weather-collection-eureka_test" target="1.8" />
+      <module name="weather-collection-quartz_main" target="1.8" />
+      <module name="weather-collection-quartz_test" target="1.8" />
+      <module name="weather-collection_main" target="1.8" />
+      <module name="weather-collection_test" target="1.8" />
+      <module name="weather-collenction-zuul_main" target="1.8" />
+      <module name="weather-collenction-zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

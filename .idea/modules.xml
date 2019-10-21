@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud-demo_main.iml" group="springcloud-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud-demo_test.iml" group="springcloud-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection.iml" group="weather-collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-config-client/weather-collection-config-client.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-config-client/weather-collection-config-client.iml" group="weather-collection-config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-config-server.iml" group="weather-collection-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-config-server/weather-collection-config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-config-server/weather-collection-config-server_main.iml" group="weather-collection-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-config-server/weather-collection-config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-config-server/weather-collection-config-server_test.iml" group="weather-collection-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-eureka/weather-collection-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-eureka/weather-collection-eureka.iml" group="weather-collection-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-eureka-client/weather-collection-eureka-client.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-eureka-client/weather-collection-eureka-client.iml" group="weather-collection-eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server.iml" group="weather-collection-eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server/weather-collection-eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server/weather-collection-eureka-server_main.iml" group="weather-collection-eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server/weather-collection-eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-eureka-server/weather-collection-eureka-server_test.iml" group="weather-collection-eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-quartz.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-quartz.iml" group="weather-collection-quartz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-quartz/weather-collection-quartz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-quartz/weather-collection-quartz_main.iml" group="weather-collection-quartz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection-quartz/weather-collection-quartz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection-quartz/weather-collection-quartz_test.iml" group="weather-collection-quartz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection/weather-collection_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection/weather-collection_main.iml" group="weather-collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collection/weather-collection_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collection/weather-collection_test.iml" group="weather-collection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collenction-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collenction-zuul.iml" group="weather-collenction-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collenction-zuul/weather-collenction-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collenction-zuul/weather-collenction-zuul_main.iml" group="weather-collenction-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-collenction-zuul/weather-collenction-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-collenction-zuul/weather-collenction-zuul_test.iml" group="weather-collenction-zuul" />
+    </modules>
+  </component>
+</project>

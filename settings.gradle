@@ -1,0 +1,11 @@
+rootProject.name = 'springcloud-demo'
+include 'weather-collection'
+include 'weather-collection-quartz'
+include 'weather-collection-eureka'
+include 'weather-collection-eureka'
+include 'weather-collection-eureka-server'
+include 'weather-collection-eureka-client'
+include 'weather-collenction-zuul'
+include 'weather-collection-config-server'
+include 'weather-collection-config-client'
+
